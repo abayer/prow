@@ -25,6 +25,7 @@ rules:
   - namespaces
   - configmaps
   - secrets
+  - apps
   verbs:
   - get
   - list
